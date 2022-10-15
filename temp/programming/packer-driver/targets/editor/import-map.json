@@ -2,7 +2,7 @@
   "imports": {
     "cce:/internal/x/cc": "./chunks/d0/d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53.js",
     "cce:/internal/x/prerequisite-imports": "./chunks/48/48925ed89f58b0eff72f0ddf69b47c4b5e8f623a.js",
-    "file:///E:/ownWork/wxgame/project/MindYourStep%20/assets/Scripts/PlayerController.ts": "./chunks/e2/e2457a94b9a92de9e55cfa7bdf48292b31c27dec.js"
+    "file:///E:/ownWork/wxgame/project/MindYourStep/assets/Scripts/PlayerController.ts": "./chunks/92/92f8bac1f55dcafd38d71a3a186ba1e02a693206.js"
   },
   "scopes": {
     "./chunks/d0/d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53.js": {
@@ -34,9 +34,9 @@
       "__unresolved_9": "cce:/internal/x/cc-fu/particle-2d"
     },
     "./chunks/48/48925ed89f58b0eff72f0ddf69b47c4b5e8f623a.js": {
-      "__unresolved_0": "./chunks/e2/e2457a94b9a92de9e55cfa7bdf48292b31c27dec.js"
+      "__unresolved_0": "./chunks/92/92f8bac1f55dcafd38d71a3a186ba1e02a693206.js"
     },
-    "./chunks/e2/e2457a94b9a92de9e55cfa7bdf48292b31c27dec.js": {
+    "./chunks/92/92f8bac1f55dcafd38d71a3a186ba1e02a693206.js": {
       "cc": "./chunks/d0/d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53.js"
     }
   }

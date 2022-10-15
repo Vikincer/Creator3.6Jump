@@ -38,5 +38,45 @@
     "time": 1665652259080.821,
     "uuid": "2fc9d647-1b74-43f5-8fda-196bc421e0fe",
     "missing": false
+  },
+  "E:\\ownWork\\wxgame\\project\\MindYourStep\\assets\\Scenes": {
+    "time": 1665646213623.7832,
+    "uuid": "b912fe25-1673-455a-9bfb-ebfb763e0c4d",
+    "missing": false
+  },
+  "E:\\ownWork\\wxgame\\project\\MindYourStep\\assets\\Scripts": {
+    "time": 1665647461115.3826,
+    "uuid": "2067fc7e-abb3-4cb8-8ded-ea0e00f451c2",
+    "missing": false
+  },
+  "E:\\ownWork\\wxgame\\project\\MindYourStep\\assets\\Scripts\\PlayerController.ts": {
+    "time": 1665647953271.9597,
+    "uuid": "8c167e20-e0bf-4add-9c5b-e6af100b403e",
+    "missing": false
+  },
+  "E:\\ownWork\\wxgame\\project\\MindYourStep\\assets\\Scenes.meta": {
+    "time": 1665646204554.1323
+  },
+  "E:\\ownWork\\wxgame\\project\\MindYourStep\\assets\\Scripts.meta": {
+    "time": 1665647452448.1558
+  },
+  "E:\\ownWork\\wxgame\\project\\MindYourStep\\assets\\Scripts\\PlayerController.ts.meta": {
+    "time": 1665647461118.3694
+  },
+  "E:\\ownWork\\wxgame\\project\\MindYourStep\\assets\\scene.scene": {
+    "time": 1665829831123.3665,
+    "uuid": "2fc9d647-1b74-43f5-8fda-196bc421e0fe",
+    "missing": false
+  },
+  "E:\\ownWork\\wxgame\\project\\MindYourStep\\assets\\Scenes\\Main.scene": {
+    "time": 1665647774190.3286,
+    "uuid": "504d44bd-b214-4ad7-8063-2e53d4c0ffa1",
+    "missing": false
+  },
+  "E:\\ownWork\\wxgame\\project\\MindYourStep\\assets\\Scenes\\Main.scene.meta": {
+    "time": 1665646213628.7703
+  },
+  "E:\\ownWork\\wxgame\\project\\MindYourStep\\assets\\scene.scene.meta": {
+    "time": 1665652259100.763
   }
 }

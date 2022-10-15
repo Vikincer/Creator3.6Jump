@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 7790.214599996805,
+      "mTimestamp": 9104.812999993563,
       "chunkId": "e61435655889656fbe773d7a4ee2a888f9b2a9ff",
       "imports": [
         {
@@ -577,11 +577,11 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 4405948.492599998,
+      "mTimestamp": 9774.466199994087,
       "chunkId": "6b8f85b7feaee65395ce6b5e8080983e7f56d534",
       "imports": [
         {
-          "value": "file:///E:/ownWork/wxgame/project/MindYourStep%20/assets/Scripts/PlayerController.ts",
+          "value": "file:///E:/ownWork/wxgame/project/MindYourStep/assets/Scripts/PlayerController.ts",
           "resolved": "__unresolved_0",
           "loc": {
             "start": {
@@ -590,7 +590,7 @@
             },
             "end": {
               "line": 4,
-              "column": 93
+              "column": 90
             }
           }
         }
@@ -600,7 +600,7 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///E:/ownWork/wxgame/project/MindYourStep%20/assets/Scripts/PlayerController.ts"
+            "url": "file:///E:/ownWork/wxgame/project/MindYourStep/assets/Scripts/PlayerController.ts"
           },
           "messages": []
         }
@@ -612,6 +612,58 @@
         "uuid": "8c167e20-e0bf-4add-9c5b-e6af100b403e"
       },
       "chunkId": "497d340c4a24fa7c1f60da43b3a6fd67303597da",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 81
+            },
+            "end": {
+              "line": 1,
+              "column": 85
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///E:/ownWork/wxgame/project/MindYourStep/assets/Scripts/PlayerController.ts": {
+      "mTimestamp": {
+        "mtime": 1665647953271.9597,
+        "uuid": "8c167e20-e0bf-4add-9c5b-e6af100b403e"
+      },
+      "chunkId": "a904a8c5ab8e95de5419d2fa23a47d5510958833",
       "imports": [
         {
           "value": "cc"
