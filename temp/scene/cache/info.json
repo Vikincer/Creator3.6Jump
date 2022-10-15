@@ -5,7 +5,8 @@
         "version": "Windows 10 Home China"
     },
     "sceneListMap": {
-        "2fc9d647-1b74-43f5-8fda-196bc421e0fe": "E:\\ownWork\\wxgame\\project\\MindYourStep\\assets\\scene.scene"
+        "2fc9d647-1b74-43f5-8fda-196bc421e0fe": "E:\\ownWork\\wxgame\\project\\MindYourStep\\assets\\scene.scene",
+        "504d44bd-b214-4ad7-8063-2e53d4c0ffa1": "E:\\ownWork\\wxgame\\project\\MindYourStep\\assets\\Scenes\\Main.scene"
     },
     "deviceMd5": "ad4c71d5118bde04907f3f047d43d3fb"
 }
