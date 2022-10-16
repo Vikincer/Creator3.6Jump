@@ -5,17 +5,17 @@
     "module": "ES2015",
     "strict": true,
     "types": [
-      "./temp/declarations/jsb",
       "./temp/declarations/cc",
       "./temp/declarations/cc.custom-macro",
+      "./temp/declarations/jsb",
       "./temp/declarations/cc.env"
     ],
     "paths": {
       "db://internal/*": [
-        "E:\\CocosDashboard\\resources\\.editors\\Creator\\3.6.1\\resources\\resources\\3d\\engine\\editor\\assets\\*"
+        "D:\\soft\\CocosDashboard\\resources\\.editors\\Creator\\3.6.1\\resources\\resources\\3d\\engine\\editor\\assets\\*"
       ],
       "db://assets/*": [
-        "E:\\ownWork\\wxgame\\project\\MindYourStep\\assets\\*"
+        "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\*"
       ]
     },
     "experimentalDecorators": true,

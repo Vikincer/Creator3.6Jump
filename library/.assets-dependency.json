@@ -1,0 +1,51 @@
+{
+  "uuid": {
+    "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\body.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\helmet.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ]
+  },
+  "path": {
+    "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocos_mesh.gltf": [
+      "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocosfinish_01.bin"
+    ],
+    "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocos_mesh_helmet.gltf": [
+      "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocosfinish_02.bin"
+    ],
+    "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_attack.gltf": [
+      "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_attack.bin"
+    ],
+    "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_down.gltf": [
+      "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_down.bin"
+    ],
+    "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_jump.gltf": [
+      "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_jump.bin"
+    ],
+    "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_shoot.gltf": [
+      "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_shoot.bin"
+    ],
+    "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_squat.gltf": [
+      "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_squat.bin"
+    ],
+    "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocos_skel.gltf": [
+      "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocos_skel_ibm.bin"
+    ],
+    "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_hurt.gltf": [
+      "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_hurt.bin"
+    ],
+    "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_idle.gltf": [
+      "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_idle.bin"
+    ],
+    "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_run.gltf": [
+      "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_run.bin"
+    ],
+    "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_die.gltf": [
+      "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_die.bin"
+    ],
+    "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_walk.gltf": [
+      "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_walk.bin"
+    ]
+  }
+}

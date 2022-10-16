@@ -8,14 +8,20 @@
     "value": {
       "depends": [
         "504d44bd-b214-4ad7-8063-2e53d4c0ffa1",
-        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
-        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
-        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
-        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
-        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
-        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
-        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
-        "1263d74c-8167-4928-91a6-4e2672411f47@801ec",
+        "6cd4e8c1-b63f-4bbb-b3db-b323fa08b435",
+        "b290fc91-6dfa-434c-b621-3b4fea2cb6a0",
+        "2fa9dbc7-7edf-4d4c-88fb-cc804c37ad7a",
+        "b290fc91-6dfa-434c-b621-3b4fea2cb6a0",
+        "7b9848c1-a34c-4533-a9b0-9e512a984a62",
+        "7b9848c1-a34c-4533-a9b0-9e512a984a62",
+        "4fc0a654-5bc4-486b-a923-01a93a21fbe2",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "504d44bd-b214-4ad7-8063-2e53d4c0ffa1",
         "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
         "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
         "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
@@ -33,5 +39,555 @@
   "2fc9d647-1b74-43f5-8fda-196bc421e0fe": {
     "url": "db://assets/scene.scene",
     "value": {}
+  },
+  "1565bfbc-69a3-4c57-b9bc-fe1ded44c10e": {
+    "url": "db://assets/Animations",
+    "value": {}
+  },
+  "7b9848c1-a34c-4533-a9b0-9e512a984a62": {
+    "url": "db://assets/Animations/oneStep.anim",
+    "value": {}
+  },
+  "368d57de-f460-417b-8cb7-62831557d32c": {
+    "url": "db://assets/Animations/twoStep.anim",
+    "value": {}
+  },
+  "94fef229-f85b-4b75-bf2c-4e148e13212a": {
+    "url": "db://assets/Scripts/GameManager.ts",
+    "value": {}
+  },
+  "68834038-b1db-4866-9548-756563b0e42f": {
+    "url": "db://assets/Prefabs",
+    "value": {}
+  },
+  "4fc0a654-5bc4-486b-a923-01a93a21fbe2": {
+    "url": "db://assets/Prefabs/Cube.prefab",
+    "value": {
+      "depends": [
+        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a"
+      ]
+    }
+  },
+  "91623744-b2d5-482d-812e-aac8372f648c": {
+    "url": "db://assets/cocos",
+    "value": {}
+  },
+  "75b08e51-53d1-4bca-b3de-ad7713d25d2c": {
+    "url": "db://assets/cocos/animations",
+    "value": {}
+  },
+  "58cf3db3-e6f4-4943-a076-26157912429c": {
+    "url": "db://assets/cocos/body.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "3af9be2f-93d2-41a0-b7b7-3cc03054b34a@6c48a",
+        "026c4a15-e07d-4053-86de-9f9fe30188e5@6c48a",
+        "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed@6c48a"
+      ]
+    }
+  },
+  "6cd4e8c1-b63f-4bbb-b3db-b323fa08b435": {
+    "url": "db://assets/cocos/Cocos.prefab",
+    "value": {
+      "depends": [
+        "7e81a899-6c7c-493d-80cf-e4f730e4f48f",
+        "fb9825a0-fd7f-48c5-b121-9af90f9f2011@72704",
+        "90f86573-5baf-41e2-97db-8604d1f42b65@a9630",
+        "58cf3db3-e6f4-4943-a076-26157912429c",
+        "58cf3db3-e6f4-4943-a076-26157912429c",
+        "58cf3db3-e6f4-4943-a076-26157912429c",
+        "58cf3db3-e6f4-4943-a076-26157912429c",
+        "5bee9f0c-9771-4e73-b0ea-0bbb6da67698@a865e",
+        "90f86573-5baf-41e2-97db-8604d1f42b65@a9630",
+        "445d5d9d-c56b-4528-bc90-c847357e5d94@ab65f",
+        "a873a742-b503-4a96-8570-6fe542697035@57e42",
+        "caf172df-03b7-4c5a-8a53-93f3e4be5146@5ecd9",
+        "27ac412c-9efa-4ead-8e2c-fe6533c7878f@96245",
+        "501da3c5-f2d8-45f7-bc04-5130d58811ff@cd579",
+        "50735e20-7211-4e9c-b676-4d648cdc0cbb@b6423",
+        "1cf73293-3e10-49c1-bfa1-59daaadbd18b@b452c",
+        "58c9fdbf-de49-4141-83fa-9ad83f78591c@b940a",
+        "b1cb32e6-c8c9-40c9-9d52-119dae416b32@0a7b5",
+        "445d5d9d-c56b-4528-bc90-c847357e5d94@ab65f"
+      ]
+    }
+  },
+  "b3df5b21-2fe6-410e-a10d-3df317e61bb5": {
+    "url": "db://assets/cocos/cocosfinish_01.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed": {
+    "url": "db://assets/cocos/cocosfinish_01_baseColor.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "026c4a15-e07d-4053-86de-9f9fe30188e5": {
+    "url": "db://assets/cocos/cocosfinish_01_emissive.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "3af9be2f-93d2-41a0-b7b7-3cc03054b34a": {
+    "url": "db://assets/cocos/cocosfinish_01_normal.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "64b1edbd-75c7-4159-a65a-f1e6d8c9812a": {
+    "url": "db://assets/cocos/cocosfinish_01_occlusionRoughnessMetallic.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "026c4a15-e07d-4053-86de-9f9fe30188e5@6c48a": {
+    "url": "db://assets/cocos/cocosfinish_01_emissive.png@6c48a",
+    "value": {
+      "depends": [
+        "026c4a15-e07d-4053-86de-9f9fe30188e5"
+      ]
+    }
+  },
+  "dcab7d1f-201e-45d8-911c-833cc5427723": {
+    "url": "db://assets/cocos/cocosfinish_02.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "8949c1f1-9b2b-418c-b150-611a94543416": {
+    "url": "db://assets/cocos/cocosfinish_02_baseColor.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed@6c48a": {
+    "url": "db://assets/cocos/cocosfinish_01_baseColor.png@6c48a",
+    "value": {
+      "depends": [
+        "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed"
+      ]
+    }
+  },
+  "19819162-ce3f-4f7c-8889-8b2f35bf274c": {
+    "url": "db://assets/cocos/cocosfinish_02_normal.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "3af9be2f-93d2-41a0-b7b7-3cc03054b34a@6c48a": {
+    "url": "db://assets/cocos/cocosfinish_01_normal.png@6c48a",
+    "value": {
+      "depends": [
+        "3af9be2f-93d2-41a0-b7b7-3cc03054b34a"
+      ]
+    }
+  },
+  "cd618de5-59fc-4899-ba4f-55195f3e24ce": {
+    "url": "db://assets/cocos/cocosfinish_02_occlusionRoughnessMetallic.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "5bee9f0c-9771-4e73-b0ea-0bbb6da67698": {
+    "url": "db://assets/cocos/cocos_mesh.gltf",
+    "value": {}
+  },
+  "64b1edbd-75c7-4159-a65a-f1e6d8c9812a@6c48a": {
+    "url": "db://assets/cocos/cocosfinish_01_occlusionRoughnessMetallic.png@6c48a",
+    "value": {
+      "depends": [
+        "64b1edbd-75c7-4159-a65a-f1e6d8c9812a"
+      ]
+    }
+  },
+  "8949c1f1-9b2b-418c-b150-611a94543416@6c48a": {
+    "url": "db://assets/cocos/cocosfinish_02_baseColor.png@6c48a",
+    "value": {
+      "depends": [
+        "8949c1f1-9b2b-418c-b150-611a94543416"
+      ]
+    }
+  },
+  "fb9825a0-fd7f-48c5-b121-9af90f9f2011": {
+    "url": "db://assets/cocos/cocos_mesh_helmet.gltf",
+    "value": {}
+  },
+  "90f86573-5baf-41e2-97db-8604d1f42b65": {
+    "url": "db://assets/cocos/cocos_skel.gltf",
+    "value": {}
+  },
+  "19819162-ce3f-4f7c-8889-8b2f35bf274c@6c48a": {
+    "url": "db://assets/cocos/cocosfinish_02_normal.png@6c48a",
+    "value": {
+      "depends": [
+        "19819162-ce3f-4f7c-8889-8b2f35bf274c"
+      ]
+    }
+  },
+  "8d2d3098-6841-41fc-af7f-4bac9e32b080": {
+    "url": "db://assets/cocos/cocos_skel_ibm.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "5bee9f0c-9771-4e73-b0ea-0bbb6da67698@a865e": {
+    "url": "db://assets/cocos/cocos_mesh.gltf@a865e",
+    "value": {
+      "depends": []
+    }
+  },
+  "90f86573-5baf-41e2-97db-8604d1f42b65@a9630": {
+    "url": "db://assets/cocos/cocos_skel.gltf@a9630",
+    "value": {
+      "depends": []
+    }
+  },
+  "cd618de5-59fc-4899-ba4f-55195f3e24ce@6c48a": {
+    "url": "db://assets/cocos/cocosfinish_02_occlusionRoughnessMetallic.png@6c48a",
+    "value": {
+      "depends": [
+        "cd618de5-59fc-4899-ba4f-55195f3e24ce"
+      ]
+    }
+  },
+  "b9ab6374-4e67-4db2-bb75-0256c62f6c7b": {
+    "url": "db://assets/cocos/cocos_squat_anim.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "5bee9f0c-9771-4e73-b0ea-0bbb6da67698@e69d3": {
+    "url": "db://assets/cocos/cocos_mesh.gltf@e69d3",
+    "value": {
+      "depends": [
+        "5bee9f0c-9771-4e73-b0ea-0bbb6da67698@a865e"
+      ]
+    }
+  },
+  "7e81a899-6c7c-493d-80cf-e4f730e4f48f": {
+    "url": "db://assets/cocos/helmet.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "19819162-ce3f-4f7c-8889-8b2f35bf274c@6c48a",
+        "cd618de5-59fc-4899-ba4f-55195f3e24ce@6c48a",
+        "cd618de5-59fc-4899-ba4f-55195f3e24ce@6c48a",
+        "8949c1f1-9b2b-418c-b150-611a94543416@6c48a"
+      ]
+    }
+  },
+  "90f86573-5baf-41e2-97db-8604d1f42b65@41e97": {
+    "url": "db://assets/cocos/cocos_skel.gltf@41e97",
+    "value": {
+      "depends": []
+    }
+  },
+  "fb9825a0-fd7f-48c5-b121-9af90f9f2011@72704": {
+    "url": "db://assets/cocos/cocos_mesh_helmet.gltf@72704",
+    "value": {
+      "depends": []
+    }
+  },
+  "73443895-6d8f-41b5-8e3f-4110d0f4dc31": {
+    "url": "db://assets/cocos/animations/cocos_anim_attack.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "a873a742-b503-4a96-8570-6fe542697035": {
+    "url": "db://assets/cocos/animations/cocos_anim_attack.gltf",
+    "value": {
+      "depends": []
+    }
+  },
+  "fb9825a0-fd7f-48c5-b121-9af90f9f2011@28c31": {
+    "url": "db://assets/cocos/cocos_mesh_helmet.gltf@28c31",
+    "value": {
+      "depends": [
+        "fb9825a0-fd7f-48c5-b121-9af90f9f2011@72704"
+      ]
+    }
+  },
+  "d1a7cd09-b5d9-422f-a4f3-112d85f1059c": {
+    "url": "db://assets/cocos/animations/cocos_anim_die.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "caf172df-03b7-4c5a-8a53-93f3e4be5146": {
+    "url": "db://assets/cocos/animations/cocos_anim_die.gltf",
+    "value": {
+      "depends": []
+    }
+  },
+  "fe407fd3-1b9c-4fb7-9a97-edb4cdae6314": {
+    "url": "db://assets/cocos/animations/cocos_anim_down.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "27ac412c-9efa-4ead-8e2c-fe6533c7878f": {
+    "url": "db://assets/cocos/animations/cocos_anim_down.gltf",
+    "value": {
+      "depends": []
+    }
+  },
+  "a1efb6ff-ef74-4037-8801-d310eca22fd5": {
+    "url": "db://assets/cocos/animations/cocos_anim_hurt.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1": {
+    "url": "db://assets/cocos/animations/cocos_anim_hurt.gltf",
+    "value": {
+      "depends": []
+    }
+  },
+  "caf172df-03b7-4c5a-8a53-93f3e4be5146@5ecd9": {
+    "url": "db://assets/cocos/animations/cocos_anim_die.gltf@5ecd9",
+    "value": {
+      "depends": []
+    }
+  },
+  "a873a742-b503-4a96-8570-6fe542697035@57e42": {
+    "url": "db://assets/cocos/animations/cocos_anim_attack.gltf@57e42",
+    "value": {
+      "depends": []
+    }
+  },
+  "e9d41da7-da95-4119-8a6c-0937de2adb57": {
+    "url": "db://assets/cocos/animations/cocos_anim_idle.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "caf172df-03b7-4c5a-8a53-93f3e4be5146@578b6": {
+    "url": "db://assets/cocos/animations/cocos_anim_die.gltf@578b6",
+    "value": {
+      "depends": [
+        "caf172df-03b7-4c5a-8a53-93f3e4be5146@5ecd9",
+        "caf172df-03b7-4c5a-8a53-93f3e4be5146@5ecd9"
+      ]
+    }
+  },
+  "445d5d9d-c56b-4528-bc90-c847357e5d94": {
+    "url": "db://assets/cocos/animations/cocos_anim_idle.gltf",
+    "value": {
+      "depends": []
+    }
+  },
+  "a873a742-b503-4a96-8570-6fe542697035@325cb": {
+    "url": "db://assets/cocos/animations/cocos_anim_attack.gltf@325cb",
+    "value": {
+      "depends": [
+        "a873a742-b503-4a96-8570-6fe542697035@57e42",
+        "a873a742-b503-4a96-8570-6fe542697035@57e42"
+      ]
+    }
+  },
+  "33a7dcc9-4eed-4d49-baac-d190c3d2a157": {
+    "url": "db://assets/cocos/animations/cocos_anim_jump.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "27ac412c-9efa-4ead-8e2c-fe6533c7878f@96245": {
+    "url": "db://assets/cocos/animations/cocos_anim_down.gltf@96245",
+    "value": {
+      "depends": []
+    }
+  },
+  "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1@51885": {
+    "url": "db://assets/cocos/animations/cocos_anim_hurt.gltf@51885",
+    "value": {
+      "depends": [
+        "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1@4cafd",
+        "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1@4cafd"
+      ]
+    }
+  },
+  "27ac412c-9efa-4ead-8e2c-fe6533c7878f@bce50": {
+    "url": "db://assets/cocos/animations/cocos_anim_down.gltf@bce50",
+    "value": {
+      "depends": [
+        "27ac412c-9efa-4ead-8e2c-fe6533c7878f@96245",
+        "27ac412c-9efa-4ead-8e2c-fe6533c7878f@96245"
+      ]
+    }
+  },
+  "501da3c5-f2d8-45f7-bc04-5130d58811ff": {
+    "url": "db://assets/cocos/animations/cocos_anim_jump.gltf",
+    "value": {
+      "depends": []
+    }
+  },
+  "f1d8a0c8-d2d8-473f-a769-803842978f68": {
+    "url": "db://assets/cocos/animations/cocos_anim_run.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1@4cafd": {
+    "url": "db://assets/cocos/animations/cocos_anim_hurt.gltf@4cafd",
+    "value": {
+      "depends": []
+    }
+  },
+  "50735e20-7211-4e9c-b676-4d648cdc0cbb": {
+    "url": "db://assets/cocos/animations/cocos_anim_run.gltf",
+    "value": {
+      "depends": []
+    }
+  },
+  "a9e047be-e87a-43d9-bbd5-1b3f5dbe2026": {
+    "url": "db://assets/cocos/animations/cocos_anim_shoot.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "1cf73293-3e10-49c1-bfa1-59daaadbd18b": {
+    "url": "db://assets/cocos/animations/cocos_anim_shoot.gltf",
+    "value": {
+      "depends": []
+    }
+  },
+  "445d5d9d-c56b-4528-bc90-c847357e5d94@ab65f": {
+    "url": "db://assets/cocos/animations/cocos_anim_idle.gltf@ab65f",
+    "value": {
+      "depends": []
+    }
+  },
+  "7290f264-a898-4355-8041-8514dbd0051f": {
+    "url": "db://assets/cocos/animations/cocos_anim_squat.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "445d5d9d-c56b-4528-bc90-c847357e5d94@0ea50": {
+    "url": "db://assets/cocos/animations/cocos_anim_idle.gltf@0ea50",
+    "value": {
+      "depends": [
+        "445d5d9d-c56b-4528-bc90-c847357e5d94@ab65f",
+        "445d5d9d-c56b-4528-bc90-c847357e5d94@ab65f"
+      ]
+    }
+  },
+  "58c9fdbf-de49-4141-83fa-9ad83f78591c": {
+    "url": "db://assets/cocos/animations/cocos_anim_squat.gltf",
+    "value": {
+      "depends": []
+    }
+  },
+  "501da3c5-f2d8-45f7-bc04-5130d58811ff@cd579": {
+    "url": "db://assets/cocos/animations/cocos_anim_jump.gltf@cd579",
+    "value": {
+      "depends": []
+    }
+  },
+  "50735e20-7211-4e9c-b676-4d648cdc0cbb@b6423": {
+    "url": "db://assets/cocos/animations/cocos_anim_run.gltf@b6423",
+    "value": {
+      "depends": []
+    }
+  },
+  "501da3c5-f2d8-45f7-bc04-5130d58811ff@645e0": {
+    "url": "db://assets/cocos/animations/cocos_anim_jump.gltf@645e0",
+    "value": {
+      "depends": [
+        "501da3c5-f2d8-45f7-bc04-5130d58811ff@cd579",
+        "501da3c5-f2d8-45f7-bc04-5130d58811ff@cd579"
+      ]
+    }
+  },
+  "e08b2140-55f5-4d1f-af55-565183504a80": {
+    "url": "db://assets/cocos/animations/cocos_anim_walk.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "b1cb32e6-c8c9-40c9-9d52-119dae416b32": {
+    "url": "db://assets/cocos/animations/cocos_anim_walk.gltf",
+    "value": {
+      "depends": []
+    }
+  },
+  "50735e20-7211-4e9c-b676-4d648cdc0cbb@6ebd2": {
+    "url": "db://assets/cocos/animations/cocos_anim_run.gltf@6ebd2",
+    "value": {
+      "depends": [
+        "50735e20-7211-4e9c-b676-4d648cdc0cbb@b6423",
+        "50735e20-7211-4e9c-b676-4d648cdc0cbb@b6423"
+      ]
+    }
+  },
+  "1cf73293-3e10-49c1-bfa1-59daaadbd18b@b452c": {
+    "url": "db://assets/cocos/animations/cocos_anim_shoot.gltf@b452c",
+    "value": {
+      "depends": []
+    }
+  },
+  "1cf73293-3e10-49c1-bfa1-59daaadbd18b@7d7b5": {
+    "url": "db://assets/cocos/animations/cocos_anim_shoot.gltf@7d7b5",
+    "value": {
+      "depends": [
+        "1cf73293-3e10-49c1-bfa1-59daaadbd18b@b452c",
+        "1cf73293-3e10-49c1-bfa1-59daaadbd18b@b452c"
+      ]
+    }
+  },
+  "58c9fdbf-de49-4141-83fa-9ad83f78591c@b940a": {
+    "url": "db://assets/cocos/animations/cocos_anim_squat.gltf@b940a",
+    "value": {
+      "depends": []
+    }
+  },
+  "58c9fdbf-de49-4141-83fa-9ad83f78591c@6c8e7": {
+    "url": "db://assets/cocos/animations/cocos_anim_squat.gltf@6c8e7",
+    "value": {
+      "depends": [
+        "58c9fdbf-de49-4141-83fa-9ad83f78591c@b940a",
+        "58c9fdbf-de49-4141-83fa-9ad83f78591c@b940a"
+      ]
+    }
+  },
+  "b1cb32e6-c8c9-40c9-9d52-119dae416b32@0a7b5": {
+    "url": "db://assets/cocos/animations/cocos_anim_walk.gltf@0a7b5",
+    "value": {
+      "depends": []
+    }
+  },
+  "b1cb32e6-c8c9-40c9-9d52-119dae416b32@6ac0b": {
+    "url": "db://assets/cocos/animations/cocos_anim_walk.gltf@6ac0b",
+    "value": {
+      "depends": [
+        "b1cb32e6-c8c9-40c9-9d52-119dae416b32@0a7b5",
+        "b1cb32e6-c8c9-40c9-9d52-119dae416b32@0a7b5"
+      ]
+    }
+  },
+  "86645de6-5b3d-4af1-b2b9-88ab3809acf4": {
+    "url": "db://assets/Animations/oneStep.anim",
+    "value": {}
+  },
+  "7fc99882-e917-4473-ba03-52800880d205": {
+    "url": "db://assets/Animations/twoStep.anim",
+    "value": {}
+  },
+  "b290fc91-6dfa-434c-b621-3b4fea2cb6a0": {
+    "url": "db://assets/Animations/oneStep.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "2fa9dbc7-7edf-4d4c-88fb-cc804c37ad7a": {
+    "url": "db://assets/Animations/twoStep.anim",
+    "value": {
+      "depends": []
+    }
   }
 }

@@ -1,0 +1,416 @@
+2022-10-16T01:33:58.413Z - log: [Package] menu@1.0.0 enable
+2022-10-16T01:33:58.417Z - log: [Package] profile@1.0.0 enable
+2022-10-16T01:33:58.433Z - log: [Package] project@1.0.2 enable
+2022-10-16T01:33:58.440Z - log: [Package] messages@1.0.0 enable
+2022-10-16T01:33:58.445Z - log: [Package] program@1.0.0 enable
+2022-10-16T01:33:58.458Z - log: [Package] tester@1.0.0 enable
+2022-10-16T01:33:58.466Z - log: [Package] preferences@1.0.0 enable
+2022-10-16T01:34:06.958Z - log: Load engine in D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine
+2022-10-16T01:34:07.720Z - log: Register native engine in D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\native
+2022-10-16T01:34:07.723Z - log: [Package] engine@1.0.6 enable
+2022-10-16T01:34:08.983Z - log: [Package] programming@1.0.0 enable
+2022-10-16T01:34:09.181Z - warn: 
+2022-10-16T01:34:09.451Z - warn: 
+2022-10-16T01:34:09.667Z - log: [Package] device@1.0.1 enable
+2022-10-16T01:34:09.718Z - log: [Package] ui-kit@1.0.1 enable
+2022-10-16T01:34:09.750Z - log: [Package] engine-extends@1.0.0 enable
+2022-10-16T01:34:09.934Z - log: [Package] asset-db@1.0.0 enable
+2022-10-16T01:34:09.935Z - warn: 
+2022-10-16T01:34:10.024Z - log: [Package] scene@1.0.0 enable
+2022-10-16T01:34:11.144Z - log: [Package] server@1.0.0 enable
+2022-10-16T01:34:11.381Z - log: [Package] utils@1.0.0 enable
+2022-10-16T01:34:13.622Z - warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2022-10-16T01:34:26.820Z - warn: 
+2022-10-16T01:34:26.820Z - warn: 
+2022-10-16T01:34:26.820Z - warn: 
+2022-10-16T01:34:26.829Z - warn: 
+2022-10-16T01:34:26.829Z - warn: 
+2022-10-16T01:34:26.830Z - warn: 
+2022-10-16T01:34:30.227Z - warn: 
+2022-10-16T01:34:30.297Z - log: [Package] preview@1.0.1 enable
+2022-10-16T01:34:30.330Z - log: [Package] animator@1.0.0 enable
+2022-10-16T01:34:30.373Z - log: pluginManager init: 0.144ms
+2022-10-16T01:34:32.016Z - log: [Package] builder@1.3.3 enable
+2022-10-16T01:34:32.142Z - log: [Package] shortcuts@1.0.1 enable
+2022-10-16T01:34:32.190Z - log: [Package] animation-graph@1.0.0 enable
+2022-10-16T01:34:32.223Z - log: [Package] about@1.0.0 enable
+2022-10-16T01:34:32.277Z - log: [Package] assets@1.0.0 enable
+2022-10-16T01:34:32.318Z - log: [Package] console@1.0.0 enable
+2022-10-16T01:34:33.208Z - log: [Package] extension@3.0.16 enable
+2022-10-16T01:34:33.245Z - log: [Package] hierarchy@1.0.0 enable
+2022-10-16T01:34:33.283Z - log: [Package] inspector@1.0.0 enable
+2022-10-16T01:34:33.319Z - log: [Package] lightmap@1.0.4 enable
+2022-10-16T01:34:34.111Z - log: [Package] localization-editor@1.0.0 enable
+2022-10-16T01:34:34.123Z - log: [Build-plugin] register pkg localization-editor: 7.921ms
+2022-10-16T01:34:34.156Z - log: [Package] node-library@1.0.1 enable
+2022-10-16T01:34:34.180Z - log: [Package] package-asset@1.0.0 enable
+2022-10-16T01:34:34.214Z - log: [Package] process@1.0.0 enable
+2022-10-16T01:34:34.251Z - log: [Package] reference-image@1.0.0 enable
+2022-10-16T01:34:34.275Z - log: [Package] alipay-mini-game@1.0.1 enable
+2022-10-16T01:34:34.285Z - log: [Build-plugin] register pkg alipay-mini-game: 10.582ms
+2022-10-16T01:34:34.293Z - warn: 
+2022-10-16T01:34:34.294Z - warn: 
+2022-10-16T01:34:34.294Z - warn: 
+2022-10-16T01:34:34.309Z - log: [Package] android@1.0.1 enable
+2022-10-16T01:34:34.319Z - log: [Build-plugin] register pkg android: 8.934ms
+2022-10-16T01:34:34.343Z - log: [Package] baidu-mini-game@1.0.1 enable
+2022-10-16T01:34:34.349Z - log: [Build-plugin] register pkg baidu-mini-game: 5.564ms
+2022-10-16T01:34:34.440Z - log: [Package] bytedance-mini-game@1.0.2 enable
+2022-10-16T01:34:34.444Z - log: [Build-plugin] register pkg bytedance-mini-game: 3.99ms
+2022-10-16T01:34:34.468Z - log: [Package] certificate@1.0.0 enable
+2022-10-16T01:34:34.491Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-10-16T01:34:34.514Z - log: [Package] cocos-play@1.0.1 enable
+2022-10-16T01:34:34.521Z - log: [Build-plugin] register pkg cocos-play: 6.762ms
+2022-10-16T01:34:34.545Z - log: [Package] huawei-agc@1.0.0 enable
+2022-10-16T01:34:34.550Z - log: [Build-plugin] register pkg huawei-agc: 4.778ms
+2022-10-16T01:34:34.573Z - log: [Package] huawei-quick-game@1.0.1 enable
+2022-10-16T01:34:34.578Z - log: [Build-plugin] register pkg huawei-quick-game: 5.636ms
+2022-10-16T01:34:34.605Z - log: [Package] ios@1.0.0 enable
+2022-10-16T01:34:34.611Z - log: [Build-plugin] register pkg ios: 5.309ms
+2022-10-16T01:34:34.633Z - log: [Package] linux@1.0.0 enable
+2022-10-16T01:34:34.635Z - log: [Build-plugin] register pkg linux: 1.051ms
+2022-10-16T01:34:34.657Z - log: [Package] mac@1.0.0 enable
+2022-10-16T01:34:34.663Z - log: [Build-plugin] register pkg mac: 5.635ms
+2022-10-16T01:34:35.550Z - log: [Package] native@1.0.2 enable
+2022-10-16T01:34:35.571Z - log: [Build-plugin] register pkg native: 20.205ms
+2022-10-16T01:34:35.594Z - log: [Package] ohos@1.0.0 enable
+2022-10-16T01:34:35.600Z - log: [Build-plugin] register pkg ohos: 5.428ms
+2022-10-16T01:34:35.623Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-10-16T01:34:35.624Z - log: [Build-plugin] register pkg open-harmonyos: 1.565ms
+2022-10-16T01:34:35.647Z - log: [Package] oppo-mini-game@1.0.1 enable
+2022-10-16T01:34:35.655Z - log: [Build-plugin] register pkg oppo-mini-game: 7.373ms
+2022-10-16T01:34:35.678Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-10-16T01:34:35.702Z - log: [Package] vivo-mini-game@1.0.1 enable
+2022-10-16T01:34:35.708Z - log: [Build-plugin] register pkg vivo-mini-game: 5.575ms
+2022-10-16T01:34:35.788Z - log: [Package] web-desktop@1.0.1 enable
+2022-10-16T01:34:35.797Z - log: [Build-plugin] register pkg web-desktop: 7.992ms
+2022-10-16T01:34:35.830Z - log: [Package] web-mobile@1.0.1 enable
+2022-10-16T01:34:35.835Z - log: [Build-plugin] register pkg web-mobile: 4.64ms
+2022-10-16T01:34:35.865Z - log: [Package] wechatgame@1.0.2 enable
+2022-10-16T01:34:35.872Z - log: [Build-plugin] register pkg wechatgame: 6.553ms
+2022-10-16T01:34:35.895Z - log: [Package] windows@1.0.1 enable
+2022-10-16T01:34:35.901Z - log: [Build-plugin] register pkg windows: 4.881ms
+2022-10-16T01:34:35.923Z - log: [Package] xiaomi-quick-game@1.0.1 enable
+2022-10-16T01:34:35.929Z - log: [Build-plugin] register pkg xiaomi-quick-game: 5.738ms
+2022-10-16T01:34:36.513Z - log: [Package] cocos-service@3.0.4 enable
+2022-10-16T01:34:36.516Z - log: [Build-plugin] register pkg cocos-service: 1.832ms
+2022-10-16T01:34:37.768Z - log: [Im-plugin] Check im-plugin version.
+2022-10-16T01:34:37.776Z - log: [Package] im-plugin@3.0.9 enable
+2022-10-16T01:34:39.292Z - log: [Im-plugin] No online info of im-plugin.
+2022-10-16T01:34:43.597Z - log: [Scene] Please specifiy a default value for "cc.EditorExtendable.__editorExtras__" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.688Z - log: [Scene] Please specifiy a default value for "CCPropertyOverrideInfo.value" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.691Z - log: [Scene] Please specifiy a default value for "cc.PrefabInfo.asset" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.692Z - log: [Scene] Please specifiy a default value for "cc.PrefabInfo.nestedPrefabInstanceRoots" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.700Z - log: [Scene] The 'default' attribute of 'ColorDesc.beginAccesses' must be an array
+2022-10-16T01:34:43.700Z - log: [Scene] The 'default' attribute of 'ColorDesc.endAccesses' must be an array
+2022-10-16T01:34:43.738Z - log: [Scene] Please specifiy a default value for "cc.animation.TrackBinding.proxy" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.742Z - log: [Scene] Please specifiy a default value for "cc.animation.Channel._curve" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.743Z - log: [Scene] Please specifiy a default value for "cc.animation.SingleChannelTrack._channel" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.749Z - log: [Scene] Please specifiy a default value for "cc.animation.VectorTrack._channels" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.750Z - log: [Scene] Please specifiy a default value for "cc.animation.ColorTrack._channels" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.751Z - log: [Scene] Please specifiy a default value for "cc.animation.SizeTrack._channels" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.755Z - log: [Scene] Please specifiy a default value for "cc.animation.Transition.from" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.756Z - log: [Scene] Please specifiy a default value for "cc.animation.Transition.to" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.760Z - log: [Scene] Please specifiy a default value for "cc.animation.StateMachine._entryState" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.761Z - log: [Scene] Please specifiy a default value for "cc.animation.StateMachine._exitState" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.761Z - log: [Scene] Please specifiy a default value for "cc.animation.StateMachine._anyState" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.762Z - log: [Scene] Please specifiy a default value for "cc.animation.Layer._stateMachine" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.766Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticVectorLikeTrackValues._values" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.767Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticVectorLikeTrackValues._isQuantized" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.768Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticTrack.times" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.769Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticTrack.values" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.770Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.originalPrecision" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.771Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.min" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.772Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.extent" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.772Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.values" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2022-10-16T01:34:43.862Z - log: [Scene] 'cc.ParticleSystem2D.color' hides inherited property 'cc.UIRenderer.color'. To make the current property override that implementation, add the `override: true` attribute please.
+2022-10-16T01:34:43.933Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._receiveShadow", which its default value is type of Boolean.
+2022-10-16T01:34:43.934Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._useNormalmap", which its default value is type of Boolean.
+2022-10-16T01:34:43.934Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._usePBR", which its default value is type of Boolean.
+2022-10-16T01:34:43.934Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._lodEnable", which its default value is type of Boolean.
+2022-10-16T01:34:44.111Z - info: [Scene] [Physics][Bullet]: Using asmjs Bullet libs.
+2022-10-16T01:34:44.123Z - info: [Scene] [PHYSICS]: using builtin.
+2022-10-16T01:34:44.285Z - log: [Scene] Cocos Creator v3.6.1
+2022-10-16T01:34:44.286Z - info: [Scene] Forward render pipeline initialized.
+2022-10-16T01:34:44.555Z - info: [Scene] [PHYSICS]: switch from builtin to bullet.
+2022-10-16T02:34:45.753Z - error: [Window] Cannot convert undefined or null to objectTypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at AnimationCtrl.copyNodeData (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\builtin\animator\dist\panel\share\animation-ctrl.ccc:1:14739)
+    at Object.click (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\builtin\animator\dist\panel\vm\components\node-tree.ccc:1:1844)
+    at Object.<anonymous> (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\node_modules\@editor\creator\dist\menu\renderer\index.ccc:1:1414)
+    at Generator.next (<anonymous>)
+    at D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\node_modules\@editor\creator\dist\menu\renderer\index.ccc:1:327
+    at new Promise (<anonymous>)
+    at D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\node_modules\@editor\creator\dist\menu\renderer\index.ccc:1:75
+    at MainSender._callback (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\node_modules\@editor\creator\dist\menu\renderer\index.ccc:1:783)
+    at EventEmitter.<anonymous> (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\node_modules\@base\electron-base-ipc\dist\renderer.ccc:1:3032)
+2022-10-16T02:52:03.022Z - log: [Window] Deprecated as of 10.7.0. highlight(lang, code, ...args) has been deprecated.
+2022-10-16T02:52:03.022Z - log: [Window] Deprecated as of 10.7.0. Please use highlight(code, options) instead.
+https://github.com/highlightjs/highlight.js/issues/2277
+2022-10-16T02:52:03.059Z - warn: 为更好地打开脚本，请在 偏好设置 -> 外部程序 -> 默认脚本编辑器 里配置打开脚本的应用程序
+2022-10-16T02:53:28.528Z - warn: 为更好地打开脚本，请在 偏好设置 -> 外部程序 -> 默认脚本编辑器 里配置打开脚本的应用程序
+2022-10-16T04:37:29.375Z - warn: A panel(project.settings) is currently open. Please try again later.
+2022-10-16T07:44:31.326Z - error: [Scene] asset can't be load:7b9848c1-a34c-4533-a9b0-9e512a984a62Error: [Scene] asset can't be load:7b9848c1-a34c-4533-a9b0-9e512a984a62
+    at D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\builtin\scene\dist\utils\dump\types\asset-dump.ccc:1:843
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:98946:9)
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:158135:9)
+2022-10-16T07:44:31.429Z - error: [Scene] asset can't be load:7b9848c1-a34c-4533-a9b0-9e512a984a62Error: [Scene] asset can't be load:7b9848c1-a34c-4533-a9b0-9e512a984a62
+    at D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\builtin\scene\dist\utils\dump\types\asset-dump.ccc:1:843
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:98946:9)
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:158135:9)
+2022-10-16T07:44:31.433Z - error: [Scene] asset can't be load:7b9848c1-a34c-4533-a9b0-9e512a984a62Error: [Scene] asset can't be load:7b9848c1-a34c-4533-a9b0-9e512a984a62
+    at D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\builtin\scene\dist\utils\dump\types\asset-dump.ccc:1:843
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:98946:9)
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:158135:9)
+2022-10-16T07:44:31.436Z - error: [Scene] asset can't be load:7b9848c1-a34c-4533-a9b0-9e512a984a62Error: [Scene] asset can't be load:7b9848c1-a34c-4533-a9b0-9e512a984a62
+    at D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\builtin\scene\dist\utils\dump\types\asset-dump.ccc:1:843
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:98946:9)
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:158135:9)
+2022-10-16T07:45:41.318Z - error: [Scene] asset can't be load:7b9848c1-a34c-4533-a9b0-9e512a984a62Error: [Scene] asset can't be load:7b9848c1-a34c-4533-a9b0-9e512a984a62
+    at D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\builtin\scene\dist\utils\dump\types\asset-dump.ccc:1:843
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:98946:9)
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:158135:9)
+2022-10-16T07:45:41.324Z - error: [Scene] asset can't be load:368d57de-f460-417b-8cb7-62831557d32cError: [Scene] asset can't be load:368d57de-f460-417b-8cb7-62831557d32c
+    at D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\builtin\scene\dist\utils\dump\types\asset-dump.ccc:1:843
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:98946:9)
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:158135:9)
+2022-10-16T07:45:41.327Z - error: [Scene] asset can't be load:7b9848c1-a34c-4533-a9b0-9e512a984a62Error: [Scene] asset can't be load:7b9848c1-a34c-4533-a9b0-9e512a984a62
+    at D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\builtin\scene\dist\utils\dump\types\asset-dump.ccc:1:843
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:98946:9)
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:158135:9)
+2022-10-16T07:45:41.330Z - error: [Scene] asset can't be load:368d57de-f460-417b-8cb7-62831557d32cError: [Scene] asset can't be load:368d57de-f460-417b-8cb7-62831557d32c
+    at D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\builtin\scene\dist\utils\dump\types\asset-dump.ccc:1:843
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:98946:9)
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:158135:9)
+2022-10-16T07:47:21.790Z - error: [Scene] asset can't be load:7b9848c1-a34c-4533-a9b0-9e512a984a62Error: [Scene] asset can't be load:7b9848c1-a34c-4533-a9b0-9e512a984a62
+    at D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\builtin\scene\dist\utils\dump\types\asset-dump.ccc:1:843
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:98946:9)
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:158135:9)
+2022-10-16T07:47:21.795Z - error: [Scene] asset can't be load:368d57de-f460-417b-8cb7-62831557d32cError: [Scene] asset can't be load:368d57de-f460-417b-8cb7-62831557d32c
+    at D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\builtin\scene\dist\utils\dump\types\asset-dump.ccc:1:843
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:98946:9)
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:158135:9)
+2022-10-16T07:47:21.805Z - error: [Scene] asset can't be load:7b9848c1-a34c-4533-a9b0-9e512a984a62Error: [Scene] asset can't be load:7b9848c1-a34c-4533-a9b0-9e512a984a62
+    at D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\builtin\scene\dist\utils\dump\types\asset-dump.ccc:1:843
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:98946:9)
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:158135:9)
+2022-10-16T07:47:21.808Z - error: [Scene] asset can't be load:368d57de-f460-417b-8cb7-62831557d32cError: [Scene] asset can't be load:368d57de-f460-417b-8cb7-62831557d32c
+    at D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\builtin\scene\dist\utils\dump\types\asset-dump.ccc:1:843
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:98946:9)
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:158135:9)
+2022-10-16T07:47:30.901Z - error: [Scene] asset can't be load:7b9848c1-a34c-4533-a9b0-9e512a984a62Error: [Scene] asset can't be load:7b9848c1-a34c-4533-a9b0-9e512a984a62
+    at D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\builtin\scene\dist\utils\dump\types\asset-dump.ccc:1:843
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:98946:9)
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:158135:9)
+2022-10-16T07:47:30.905Z - error: [Scene] asset can't be load:368d57de-f460-417b-8cb7-62831557d32cError: [Scene] asset can't be load:368d57de-f460-417b-8cb7-62831557d32c
+    at D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\builtin\scene\dist\utils\dump\types\asset-dump.ccc:1:843
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:98946:9)
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:158135:9)
+2022-10-16T07:47:30.915Z - error: [Scene] asset can't be load:7b9848c1-a34c-4533-a9b0-9e512a984a62Error: [Scene] asset can't be load:7b9848c1-a34c-4533-a9b0-9e512a984a62
+    at D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\builtin\scene\dist\utils\dump\types\asset-dump.ccc:1:843
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:98946:9)
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:158135:9)
+2022-10-16T07:47:30.919Z - error: [Scene] asset can't be load:368d57de-f460-417b-8cb7-62831557d32cError: [Scene] asset can't be load:368d57de-f460-417b-8cb7-62831557d32c
+    at D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\builtin\scene\dist\utils\dump\types\asset-dump.ccc:1:843
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:98946:9)
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:158135:9)
+2022-10-16T07:48:33.526Z - error: [Scene] asset can't be load:368d57de-f460-417b-8cb7-62831557d32cError: [Scene] asset can't be load:368d57de-f460-417b-8cb7-62831557d32c
+    at D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\app.asar\builtin\scene\dist\utils\dump\types\asset-dump.ccc:1:843
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:98946:9)
+    at eval (D:\soft\CocosDashboard\resources\.editors\Creator\3.6.1\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:158135:9)

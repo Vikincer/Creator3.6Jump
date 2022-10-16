@@ -70,5 +70,397 @@
   },
   "E:\\ownWork\\wxgame\\project\\MindYourStep\\assets\\Scenes\\Main.scene.meta": {
     "time": 1665646213628.7703
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\Scenes": {
+    "time": 1665883990436.78,
+    "uuid": "b912fe25-1673-455a-9bfb-ebfb763e0c4d",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\Scripts": {
+    "time": 1665894503216.3926,
+    "uuid": "2067fc7e-abb3-4cb8-8ded-ea0e00f451c2",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\Scripts\\PlayerController.ts": {
+    "time": 1665901205969.6978,
+    "uuid": "8c167e20-e0bf-4add-9c5b-e6af100b403e",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\Scenes.meta": {
+    "time": 1665883990436.78
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\Scripts.meta": {
+    "time": 1665883990436.78
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\Scripts\\PlayerController.ts.meta": {
+    "time": 1665883990436.78
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\Scenes\\Main.scene": {
+    "time": 1665906525591.385,
+    "uuid": "504d44bd-b214-4ad7-8063-2e53d4c0ffa1",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\Scenes\\Main.scene.meta": {
+    "time": 1665883990436.78
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\Animations.meta": {
+    "time": 1665887429365.3015
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\Animations": {
+    "time": 1665906403959.067,
+    "uuid": "1565bfbc-69a3-4c57-b9bc-fe1ded44c10e",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\Scripts\\GameManager.ts.meta": {
+    "time": 1665894503217.3896
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\Scripts\\GameManager.ts": {
+    "time": 1665901193753.52,
+    "uuid": "94fef229-f85b-4b75-bf2c-4e148e13212a",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\Prefabs.meta": {
+    "time": 1665894590764.7742
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\Prefabs": {
+    "time": 1665894612250.6223,
+    "uuid": "68834038-b1db-4866-9548-756563b0e42f",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\Prefabs\\Cube.prefab.meta": {
+    "time": 1665894612310.2605
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\Prefabs\\Cube.prefab": {
+    "time": 1665894612252.6448,
+    "uuid": "4fc0a654-5bc4-486b-a923-01a93a21fbe2",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos.meta": {
+    "time": 1665900434234.6948
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations.meta": {
+    "time": 1665900412662.9583
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos": {
+    "time": 1665900428297.1934,
+    "uuid": "91623744-b2d5-482d-812e-aac8372f648c",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations": {
+    "time": 1665900428424.094,
+    "uuid": "75b08e51-53d1-4bca-b3de-ad7713d25d2c",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\body.mtl.meta": {
+    "time": 1665900434331.5479
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\Cocos.prefab.meta": {
+    "time": 1665900434341.5193
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocosfinish_01.bin.meta": {
+    "time": 1665900434332.5447
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocosfinish_01_baseColor.png.meta": {
+    "time": 1665900434356.4805
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocosfinish_01_emissive.png.meta": {
+    "time": 1665900434343.516
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocosfinish_01_normal.png.meta": {
+    "time": 1665900434366.454
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocosfinish_01_occlusionRoughnessMetallic.png.meta": {
+    "time": 1665900434382.411
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocosfinish_02.bin.meta": {
+    "time": 1665900434367.4507
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocosfinish_02_baseColor.png.meta": {
+    "time": 1665900434384.4053
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocosfinish_02_normal.png.meta": {
+    "time": 1665900434572.9026
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocosfinish_02_occlusionRoughnessMetallic.png.meta": {
+    "time": 1665900434621.7708
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocos_mesh.gltf.meta": {
+    "time": 1665900434629.7493
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocos_mesh_helmet.gltf.meta": {
+    "time": 1665900434651.692
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocos_skel.gltf.meta": {
+    "time": 1665900434632.7417
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocos_skel_ibm.bin.meta": {
+    "time": 1665900434645.708
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocos_squat_anim.bin.meta": {
+    "time": 1665900434658.6787
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\helmet.mtl.meta": {
+    "time": 1665900434679.6162
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_attack.bin.meta": {
+    "time": 1665900434677.6235
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_attack.gltf.meta": {
+    "time": 1665900435305.942
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_die.bin.meta": {
+    "time": 1665900434733.4724
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_die.gltf.meta": {
+    "time": 1665900435225.1577
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_down.bin.meta": {
+    "time": 1665900434735.4668
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_down.gltf.meta": {
+    "time": 1665900435423.6265
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_hurt.bin.meta": {
+    "time": 1665900435119.442
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_hurt.gltf.meta": {
+    "time": 1665900435513.3877
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_idle.bin.meta": {
+    "time": 1665900435489.4502
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_idle.gltf.meta": {
+    "time": 1665900435965.1787
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_jump.bin.meta": {
+    "time": 1665900435519.3708
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_jump.gltf.meta": {
+    "time": 1665900436047.9583
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_run.bin.meta": {
+    "time": 1665900435785.6582
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_run.gltf.meta": {
+    "time": 1665900436083.861
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_shoot.bin.meta": {
+    "time": 1665900435807.5986
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_shoot.gltf.meta": {
+    "time": 1665900436196.5598
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_squat.bin.meta": {
+    "time": 1665900436076.8806
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_squat.gltf.meta": {
+    "time": 1665900436317.237
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_walk.bin.meta": {
+    "time": 1665900436191.574
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_walk.gltf.meta": {
+    "time": 1665900436345.166
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\body.mtl": {
+    "time": 1665900434307.6118,
+    "uuid": "58cf3db3-e6f4-4943-a076-26157912429c",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocosfinish_01.bin": {
+    "time": 1665900412754.966,
+    "uuid": "b3df5b21-2fe6-410e-a10d-3df317e61bb5",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\Cocos.prefab": {
+    "time": 1665900434330.5496,
+    "uuid": "6cd4e8c1-b63f-4bbb-b3db-b323fa08b435",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocosfinish_01_emissive.png": {
+    "time": 1665900412793.771,
+    "uuid": "026c4a15-e07d-4053-86de-9f9fe30188e5",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocosfinish_01_baseColor.png": {
+    "time": 1665900412775.879,
+    "uuid": "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocosfinish_01_normal.png": {
+    "time": 1665900412817.7073,
+    "uuid": "3af9be2f-93d2-41a0-b7b7-3cc03054b34a",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocosfinish_02.bin": {
+    "time": 1665900412851.216,
+    "uuid": "dcab7d1f-201e-45d8-911c-833cc5427723",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocosfinish_01_occlusionRoughnessMetallic.png": {
+    "time": 1665900412839.6802,
+    "uuid": "64b1edbd-75c7-4159-a65a-f1e6d8c9812a",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocosfinish_02_baseColor.png": {
+    "time": 1665900412866.204,
+    "uuid": "8949c1f1-9b2b-418c-b150-611a94543416",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocosfinish_02_normal.png": {
+    "time": 1665900412886.1782,
+    "uuid": "19819162-ce3f-4f7c-8889-8b2f35bf274c",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocosfinish_02_occlusionRoughnessMetallic.png": {
+    "time": 1665900412901.1108,
+    "uuid": "cd618de5-59fc-4899-ba4f-55195f3e24ce",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocos_mesh.gltf": {
+    "time": 1665900412684.9287,
+    "uuid": "5bee9f0c-9771-4e73-b0ea-0bbb6da67698",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocos_skel.gltf": {
+    "time": 1665900412714.0479,
+    "uuid": "90f86573-5baf-41e2-97db-8604d1f42b65",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocos_skel_ibm.bin": {
+    "time": 1665900412725.0164,
+    "uuid": "8d2d3098-6841-41fc-af7f-4bac9e32b080",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocos_mesh_helmet.gltf": {
+    "time": 1665900412701.082,
+    "uuid": "fb9825a0-fd7f-48c5-b121-9af90f9f2011",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\cocos_squat_anim.bin": {
+    "time": 1665900412739.9912,
+    "uuid": "b9ab6374-4e67-4db2-bb75-0256c62f6c7b",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_attack.bin": {
+    "time": 1665900412928.0386,
+    "uuid": "73443895-6d8f-41b5-8e3f-4110d0f4dc31",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\helmet.mtl": {
+    "time": 1665900434649.697,
+    "uuid": "7e81a899-6c7c-493d-80cf-e4f730e4f48f",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_die.bin": {
+    "time": 1665900412954.0068,
+    "uuid": "d1a7cd09-b5d9-422f-a4f3-112d85f1059c",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_down.bin": {
+    "time": 1665900412979.9663,
+    "uuid": "fe407fd3-1b9c-4fb7-9a97-edb4cdae6314",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_hurt.bin": {
+    "time": 1665900413005.8667,
+    "uuid": "a1efb6ff-ef74-4037-8801-d310eca22fd5",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_die.gltf": {
+    "time": 1665900412965.972,
+    "uuid": "caf172df-03b7-4c5a-8a53-93f3e4be5146",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_attack.gltf": {
+    "time": 1665900412941.004,
+    "uuid": "a873a742-b503-4a96-8570-6fe542697035",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_down.gltf": {
+    "time": 1665900412991.938,
+    "uuid": "27ac412c-9efa-4ead-8e2c-fe6533c7878f",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_idle.bin": {
+    "time": 1665900413034.79,
+    "uuid": "e9d41da7-da95-4119-8a6c-0937de2adb57",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_hurt.gltf": {
+    "time": 1665900413020.8289,
+    "uuid": "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_jump.bin": {
+    "time": 1665900413064.7412,
+    "uuid": "33a7dcc9-4eed-4d49-baac-d190c3d2a157",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_run.bin": {
+    "time": 1665900413088.645,
+    "uuid": "f1d8a0c8-d2d8-473f-a769-803842978f68",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_shoot.bin": {
+    "time": 1665900413115.933,
+    "uuid": "a9e047be-e87a-43d9-bbd5-1b3f5dbe2026",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_idle.gltf": {
+    "time": 1665900413048.7517,
+    "uuid": "445d5d9d-c56b-4528-bc90-c847357e5d94",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_jump.gltf": {
+    "time": 1665900413075.6797,
+    "uuid": "501da3c5-f2d8-45f7-bc04-5130d58811ff",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_squat.bin": {
+    "time": 1665900413159.277,
+    "uuid": "7290f264-a898-4355-8041-8514dbd0051f",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_run.gltf": {
+    "time": 1665900413100.6123,
+    "uuid": "50735e20-7211-4e9c-b676-4d648cdc0cbb",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_walk.bin": {
+    "time": 1665900413184.548,
+    "uuid": "e08b2140-55f5-4d1f-af55-565183504a80",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_shoot.gltf": {
+    "time": 1665900413127.8735,
+    "uuid": "1cf73293-3e10-49c1-bfa1-59daaadbd18b",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_squat.gltf": {
+    "time": 1665900413171.2153,
+    "uuid": "58c9fdbf-de49-4141-83fa-9ad83f78591c",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\cocos\\animations\\cocos_anim_walk.gltf": {
+    "time": 1665900413197.5122,
+    "uuid": "b1cb32e6-c8c9-40c9-9d52-119dae416b32",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\Animations\\oneStep.anim.meta": {
+    "time": 1665906360884.6262
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\Animations\\oneStep.anim": {
+    "time": 1665906384048.7056,
+    "uuid": "b290fc91-6dfa-434c-b621-3b4fea2cb6a0",
+    "missing": false
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\Animations\\twoStep.anim.meta": {
+    "time": 1665906399129.9917
+  },
+  "D:\\Hword\\wx\\maomao\\Creator3.6Jump\\assets\\Animations\\twoStep.anim": {
+    "time": 1665906440139.4976,
+    "uuid": "2fa9dbc7-7edf-4d4c-88fb-cc804c37ad7a",
+    "missing": false
   }
 }

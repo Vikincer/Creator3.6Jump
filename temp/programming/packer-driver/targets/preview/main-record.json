@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 8635.857800006866,
+      "mTimestamp": 22433.03700017929,
       "chunkId": "e61435655889656fbe773d7a4ee2a888f9b2a9ff",
       "imports": [
         {
@@ -577,11 +577,11 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 9237.718800008297,
-      "chunkId": "6b8f85b7feaee65395ce6b5e8080983e7f56d534",
+      "mTimestamp": 17161369.62319994,
+      "chunkId": "6cea9118b313aa76b67e6fd6577a4a82aae4c9d4",
       "imports": [
         {
-          "value": "file:///E:/ownWork/wxgame/project/MindYourStep/assets/Scripts/PlayerController.ts",
+          "value": "file:///D:/Hword/wx/maomao/Creator3.6Jump/assets/Scripts/GameManager.ts",
           "resolved": "__unresolved_0",
           "loc": {
             "start": {
@@ -590,7 +590,21 @@
             },
             "end": {
               "line": 4,
-              "column": 90
+              "column": 80
+            }
+          }
+        },
+        {
+          "value": "file:///D:/Hword/wx/maomao/Creator3.6Jump/assets/Scripts/PlayerController.ts",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 7
+            },
+            "end": {
+              "line": 5,
+              "column": 85
             }
           }
         }
@@ -600,7 +614,14 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///E:/ownWork/wxgame/project/MindYourStep/assets/Scripts/PlayerController.ts"
+            "url": "file:///D:/Hword/wx/maomao/Creator3.6Jump/assets/Scripts/GameManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Hword/wx/maomao/Creator3.6Jump/assets/Scripts/PlayerController.ts"
           },
           "messages": []
         }
@@ -709,6 +730,149 @@
           "messages": []
         }
       ]
+    },
+    "file:///D:/Hword/wx/maomao/Creator3.6Jump/assets/Scripts/PlayerController.ts": {
+      "mTimestamp": {
+        "mtime": 1665901205969.6978,
+        "uuid": "8c167e20-e0bf-4add-9c5b-e6af100b403e"
+      },
+      "chunkId": "10b7c2a72ed8a9f6b36f8f6a7228f13708d77a94",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 100
+            },
+            "end": {
+              "line": 1,
+              "column": 104
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Hword/wx/maomao/Creator3.6Jump/assets/Scripts/GameManager.ts": {
+      "mTimestamp": {
+        "mtime": 1665901193753.52,
+        "uuid": "94fef229-f85b-4b75-bf2c-4e148e13212a"
+      },
+      "chunkId": "5e194cf1d0ace808cee28c8c212636195b9a23c0",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 89
+            },
+            "end": {
+              "line": 1,
+              "column": 93
+            }
+          }
+        },
+        {
+          "value": "./PlayerController",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 33
+            },
+            "end": {
+              "line": 2,
+              "column": 53
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Hword/wx/maomao/Creator3.6Jump/assets/Scripts/PlayerController.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "cce:/internal/code-quality/cr.mjs": {
+      "mTimestamp": 1665884047873,
+      "chunkId": "3a1fd7b13056478820ebedd306d3446d1aa408cc",
+      "imports": [],
+      "type": "esm",
+      "resolutions": []
     }
   }
 }
